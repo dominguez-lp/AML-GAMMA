@@ -1,0 +1,862 @@
+,county,state,In labor force,Not in labor force,Population 16 years and over
+0,Ada County,Idaho,0.6509999999999999,0.349,437887.0
+1,Adams County,Colorado,0.736,0.264,428479.0
+2,Adams County,Pennsylvania,0.6559999999999999,0.344,89648.0
+3,Aiken County,South Carolina,0.588,0.41200000000000003,146656.0
+4,Alachua County,Florida,0.617,0.38299999999999995,246935.0
+5,Alamance County,North Carolina,0.637,0.363,148612.0
+6,Alameda County,California,0.674,0.326,1372398.0
+7,Albany County,New York,0.636,0.364,270776.0
+8,Albemarle County,Virginia,0.635,0.365,98475.0
+9,Alexandria city,Virginia,0.8,0.2,132691.0
+10,Allegan County,Michigan,0.631,0.369,98447.0
+11,Allegany County,Maryland,0.5479999999999999,0.452,56789.0
+12,Allegheny County,Pennsylvania,0.65,0.35,1033903.0
+13,Allen County,Indiana,0.675,0.325,311833.0
+14,Allen County,Ohio,0.581,0.419,80470.0
+15,Anchorage Municipality,Alaska,0.7120000000000001,0.28800000000000003,229567.0
+16,Anderson County,South Carolina,0.623,0.377,175694.0
+17,Anderson County,Tennessee,0.628,0.37200000000000005,66652.0
+18,Androscoggin County,Maine,0.653,0.34700000000000003,94936.0
+19,Angelina County,Texas,0.585,0.415,69513.0
+20,Anne Arundel County,Maryland,0.7,0.3,483716.0
+21,Anoka County,Minnesota,0.7070000000000001,0.293,299144.0
+22,Apache County,Arizona,0.436,0.564,51827.0
+23,Arapahoe County,Colorado,0.727,0.273,538835.0
+24,Arecibo Municipio,Puerto Rico,0.466,0.534,74807.0
+25,Arlington County,Virginia,0.753,0.247,201911.0
+26,Armstrong County,Pennsylvania,0.5660000000000001,0.434,53745.0
+27,Aroostook County,Maine,0.5660000000000001,0.434,55837.0
+28,Ascension Parish,Louisiana,0.6829999999999999,0.317,103324.0
+29,Ashtabula County,Ohio,0.5660000000000001,0.434,79190.0
+30,Atlantic County,New Jersey,0.652,0.348,229777.0
+31,Augusta County,Virginia,0.624,0.376,67156.0
+32,Baldwin County,Alabama,0.591,0.409,211914.0
+33,Baltimore County,Maryland,0.6659999999999999,0.33399999999999996,691798.0
+34,Baltimore city,Maryland,0.664,0.336,463807.0
+35,Bannock County,Idaho,0.677,0.32299999999999995,71957.0
+36,Barnstable County,Massachusetts,0.5589999999999999,0.441,205105.0
+37,Barrow County,Georgia,0.687,0.313,74523.0
+38,Bartholomew County,Indiana,0.648,0.35200000000000004,68849.0
+39,Bartow County,Georgia,0.665,0.335,94210.0
+40,Bastrop County,Texas,0.642,0.358,89177.0
+41,Bay County,Florida,0.649,0.35100000000000003,162326.0
+42,Bay County,Michigan,0.629,0.371,85665.0
+43,Bayamón Municipio,Puerto Rico,0.489,0.511,158490.0
+44,Beaufort County,South Carolina,0.584,0.41600000000000004,172764.0
+45,Beaver County,Pennsylvania,0.626,0.374,138016.0
+46,Bedford County,Virginia,0.574,0.426,69367.0
+47,Belknap County,New Hampshire,0.605,0.395,56392.0
+48,Bell County,Texas,0.647,0.353,303284.0
+49,Belmont County,Ohio,0.563,0.43700000000000006,54473.0
+50,Benton County,Arkansas,0.6729999999999999,0.327,250578.0
+51,Benton County,Oregon,0.617,0.38299999999999995,86739.0
+52,Benton County,Washington,0.625,0.375,171022.0
+53,Bergen County,New Jersey,0.67,0.33,801554.0
+54,Berkeley County,South Carolina,0.6729999999999999,0.327,211598.0
+55,Berkeley County,West Virginia,0.6559999999999999,0.344,108462.0
+56,Berks County,Pennsylvania,0.65,0.35,355861.0
+57,Berkshire County,Massachusetts,0.596,0.40399999999999997,112089.0
+58,Bernalillo County,New Mexico,0.622,0.37799999999999995,556109.0
+59,Berrien County,Michigan,0.606,0.39399999999999996,124969.0
+60,Bexar County,Texas,0.662,0.33799999999999997,1680399.0
+61,Bibb County,Georgia,0.5539999999999999,0.446,124598.0
+62,Black Hawk County,Iowa,0.6829999999999999,0.317,106458.0
+63,Blair County,Pennsylvania,0.604,0.396,99394.0
+64,Blount County,Tennessee,0.606,0.39399999999999996,119141.0
+65,Blue Earth County,Minnesota,0.7070000000000001,0.293,58797.0
+66,Bonneville County,Idaho,0.65,0.35,99458.0
+67,Boone County,Indiana,0.687,0.313,61722.0
+68,Boone County,Kentucky,0.675,0.325,112610.0
+69,Boone County,Missouri,0.675,0.325,158569.0
+70,Bossier Parish,Louisiana,0.63,0.37,103224.0
+71,Boulder County,Colorado,0.669,0.331,283222.0
+72,Bowie County,Texas,0.57,0.43,72824.0
+73,Bradley County,Tennessee,0.617,0.38299999999999995,92752.0
+74,Brazoria County,Texas,0.655,0.345,322572.0
+75,Brazos County,Texas,0.601,0.39899999999999997,206198.0
+76,Brevard County,Florida,0.565,0.435,557302.0
+77,Bristol County,Massachusetts,0.653,0.34700000000000003,486979.0
+78,Bronx County,New York,0.5870000000000001,0.413,1093924.0
+79,Broome County,New York,0.584,0.41600000000000004,164183.0
+80,Broomfield County,Colorado,0.726,0.27399999999999997,65146.0
+81,Broward County,Florida,0.664,0.336,1671615.0
+82,Brown County,Wisconsin,0.6759999999999999,0.324,220240.0
+83,Brunswick County,North Carolina,0.499,0.501,147526.0
+84,Buchanan County,Missouri,0.629,0.371,66817.0
+85,Bucks County,Pennsylvania,0.66,0.34,539500.0
+86,Bullitt County,Kentucky,0.643,0.35700000000000004,70106.0
+87,Bulloch County,Georgia,0.619,0.381,71842.0
+88,Buncombe County,North Carolina,0.5920000000000001,0.408,236677.0
+89,Burke County,North Carolina,0.5770000000000001,0.423,74362.0
+90,Burleigh County,North Dakota,0.682,0.318,83602.0
+91,Burlington County,New Jersey,0.667,0.33299999999999996,392026.0
+92,Butler County,Kansas,0.6409999999999999,0.359,55297.0
+93,Butler County,Ohio,0.65,0.35,320706.0
+94,Butler County,Pennsylvania,0.636,0.364,166809.0
+95,Butte County,California,0.594,0.406,171256.0
+96,Cabarrus County,North Carolina,0.687,0.313,190717.0
+97,Cabell County,West Virginia,0.5670000000000001,0.433,75314.0
+98,Cache County,Utah,0.71,0.29,109541.0
+99,Caddo Parish,Louisiana,0.5770000000000001,0.423,178298.0
+100,Caguas Municipio,Puerto Rico,0.506,0.494,109154.0
+101,Calcasieu Parish,Louisiana,0.614,0.386,161785.0
+102,Caldwell County,North Carolina,0.585,0.415,67928.0
+103,Calhoun County,Alabama,0.5660000000000001,0.434,93801.0
+104,Calhoun County,Michigan,0.605,0.395,108556.0
+105,Calvert County,Maryland,0.637,0.363,76623.0
+106,Cambria County,Pennsylvania,0.5579999999999999,0.442,108949.0
+107,Camden County,New Jersey,0.67,0.33,429145.0
+108,Cameron County,Texas,0.583,0.41700000000000004,326930.0
+109,Campbell County,Kentucky,0.667,0.33299999999999996,77333.0
+110,Canadian County,Oklahoma,0.6829999999999999,0.317,142375.0
+111,Canyon County,Idaho,0.665,0.335,206330.0
+112,Cape Girardeau County,Missouri,0.6579999999999999,0.342,67580.0
+113,Cape May County,New Jersey,0.599,0.401,80473.0
+114,Capitol Planning Region,Connecticut,0.665,0.335,821958.0
+115,Carbon County,Pennsylvania,0.603,0.397,55270.0
+116,Carolina Municipio,Puerto Rico,0.5379999999999999,0.462,132309.0
+117,Carroll County,Georgia,0.633,0.36700000000000005,103457.0
+118,Carroll County,Maryland,0.664,0.336,143624.0
+119,Carteret County,North Carolina,0.54,0.46,60713.0
+120,Carver County,Minnesota,0.7340000000000001,0.266,88891.0
+121,Cascade County,Montana,0.638,0.36200000000000004,68184.0
+122,Cass County,Missouri,0.6609999999999999,0.33899999999999997,92376.0
+123,Cass County,North Dakota,0.741,0.259,162125.0
+124,Catawba County,North Carolina,0.583,0.41700000000000004,136037.0
+125,Catoosa County,Georgia,0.626,0.374,57249.0
+126,Cattaraugus County,New York,0.552,0.44799999999999995,61719.0
+127,Cayuga County,New York,0.584,0.41600000000000004,62420.0
+128,Cecil County,Maryland,0.6559999999999999,0.344,86275.0
+129,Centre County,Pennsylvania,0.5770000000000001,0.423,140084.0
+130,Champaign County,Illinois,0.615,0.385,177986.0
+131,Charles County,Maryland,0.708,0.292,139167.0
+132,Charleston County,South Carolina,0.6629999999999999,0.337,357666.0
+133,Charlotte County,Florida,0.433,0.5670000000000001,191211.0
+134,Chatham County,Georgia,0.647,0.353,253787.0
+135,Chatham County,North Carolina,0.5589999999999999,0.441,71156.0
+136,Chautauqua County,New York,0.5760000000000001,0.424,101592.0
+137,Chelan County,Washington,0.608,0.392,64797.0
+138,Chemung County,New York,0.5760000000000001,0.424,66768.0
+139,Cherokee County,Georgia,0.675,0.325,238893.0
+140,Chesapeake city,Virginia,0.6459999999999999,0.354,201186.0
+141,Cheshire County,New Hampshire,0.613,0.387,66619.0
+142,Chester County,Pennsylvania,0.667,0.33299999999999996,456940.0
+143,Chesterfield County,Virginia,0.6759999999999999,0.324,310711.0
+144,Chippewa County,Wisconsin,0.632,0.368,55542.0
+145,Chittenden County,Vermont,0.701,0.299,147232.0
+146,Christian County,Kentucky,0.639,0.361,51925.0
+147,Christian County,Missouri,0.6459999999999999,0.354,75711.0
+148,Citrus County,Florida,0.41600000000000004,0.584,148822.0
+149,Clackamas County,Oregon,0.642,0.358,350584.0
+150,Clallam County,Washington,0.491,0.509,67063.0
+151,Clark County,Indiana,0.665,0.335,103225.0
+152,Clark County,Nevada,0.6559999999999999,0.344,1944663.0
+153,Clark County,Ohio,0.586,0.414,109195.0
+154,Clark County,Washington,0.645,0.355,426858.0
+155,Clarke County,Georgia,0.6409999999999999,0.359,110702.0
+156,Clay County,Florida,0.633,0.36700000000000005,190941.0
+157,Clay County,Minnesota,0.726,0.27399999999999997,54316.0
+158,Clay County,Missouri,0.6920000000000001,0.308,210291.0
+159,Clayton County,Georgia,0.662,0.33799999999999997,231388.0
+160,Clearfield County,Pennsylvania,0.535,0.465,65711.0
+161,Clermont County,Ohio,0.647,0.353,174885.0
+162,Cleveland County,North Carolina,0.5579999999999999,0.442,82591.0
+163,Cleveland County,Oklahoma,0.642,0.358,251907.0
+164,Clinton County,Michigan,0.632,0.368,65152.0
+165,Clinton County,New York,0.586,0.414,66022.0
+166,Cobb County,Georgia,0.696,0.304,638158.0
+167,Cochise County,Arizona,0.511,0.489,103233.0
+168,Coconino County,Arizona,0.6609999999999999,0.33899999999999997,121957.0
+169,Cole County,Missouri,0.6609999999999999,0.33899999999999997,63169.0
+170,Collier County,Florida,0.501,0.499,358050.0
+171,Collin County,Texas,0.7170000000000001,0.28300000000000003,990793.0
+172,Columbia County,Florida,0.574,0.426,60264.0
+173,Columbia County,Georgia,0.644,0.35600000000000004,132343.0
+174,Columbia County,Pennsylvania,0.611,0.389,55885.0
+175,Columbiana County,Ohio,0.5539999999999999,0.446,82237.0
+176,Comal County,Texas,0.653,0.34700000000000003,162665.0
+177,Comanche County,Oklahoma,0.604,0.396,96018.0
+178,Contra Costa County,California,0.638,0.36200000000000004,954525.0
+179,Cook County,Illinois,0.669,0.331,4264275.0
+180,Coryell County,Texas,0.5429999999999999,0.457,68945.0
+181,Coweta County,Georgia,0.6609999999999999,0.33899999999999997,126858.0
+182,Cowlitz County,Washington,0.603,0.397,92068.0
+183,Craighead County,Arkansas,0.619,0.381,90569.0
+184,Craven County,North Carolina,0.603,0.397,84532.0
+185,Crawford County,Pennsylvania,0.539,0.461,67913.0
+186,Creek County,Oklahoma,0.575,0.425,59176.0
+187,Crow Wing County,Minnesota,0.613,0.387,56714.0
+188,Cullman County,Alabama,0.561,0.439,74080.0
+189,Cumberland County,Maine,0.6729999999999999,0.327,264966.0
+190,Cumberland County,New Jersey,0.569,0.431,123334.0
+191,Cumberland County,North Carolina,0.627,0.373,262094.0
+192,Cumberland County,Pennsylvania,0.6559999999999999,0.344,226596.0
+193,Cumberland County,Tennessee,0.455,0.545,55291.0
+194,Cuyahoga County,Ohio,0.648,0.35200000000000004,1021217.0
+195,Dakota County,Minnesota,0.703,0.297,360339.0
+196,Dallas County,Iowa,0.7440000000000001,0.256,89155.0
+197,Dallas County,Texas,0.693,0.307,2084361.0
+198,Dane County,Wisconsin,0.715,0.285,489357.0
+199,Dauphin County,Pennsylvania,0.642,0.358,237039.0
+200,Davidson County,North Carolina,0.604,0.396,145992.0
+201,Davidson County,Tennessee,0.742,0.258,596730.0
+202,Daviess County,Kentucky,0.605,0.395,82338.0
+203,Davis County,Utah,0.6940000000000001,0.306,283955.0
+204,DeKalb County,Alabama,0.551,0.449,57754.0
+205,DeKalb County,Georgia,0.6990000000000001,0.301,619107.0
+206,DeKalb County,Illinois,0.6890000000000001,0.311,81826.0
+207,DeSoto County,Mississippi,0.7040000000000001,0.29600000000000004,154737.0
+208,Delaware County,Indiana,0.599,0.401,94750.0
+209,Delaware County,Ohio,0.69,0.31,188870.0
+210,Delaware County,Pennsylvania,0.647,0.353,470417.0
+211,Denton County,Texas,0.7190000000000001,0.281,837147.0
+212,Denver County,Colorado,0.738,0.262,614929.0
+213,Deschutes County,Oregon,0.653,0.34700000000000003,178501.0
+214,District of Columbia,District of Columbia,0.713,0.287,584506.0
+215,Dodge County,Wisconsin,0.619,0.381,74262.0
+216,Dorchester County,South Carolina,0.6709999999999999,0.32899999999999996,138599.0
+217,Dougherty County,Georgia,0.569,0.431,65362.0
+218,Douglas County,Colorado,0.7190000000000001,0.281,317746.0
+219,Douglas County,Georgia,0.67,0.33,119915.0
+220,Douglas County,Kansas,0.705,0.295,102842.0
+221,Douglas County,Nebraska,0.7020000000000001,0.298,469732.0
+222,Douglas County,Oregon,0.502,0.498,93849.0
+223,Doña Ana County,New Mexico,0.607,0.39299999999999996,183912.0
+224,DuPage County,Illinois,0.677,0.32299999999999995,759903.0
+225,Dubuque County,Iowa,0.669,0.331,78978.0
+226,Durham County,North Carolina,0.6859999999999999,0.314,283768.0
+227,Dutchess County,New York,0.619,0.381,253824.0
+228,Duval County,Florida,0.6709999999999999,0.32899999999999996,849146.0
+229,East Baton Rouge Parish,Louisiana,0.614,0.386,362715.0
+230,Eaton County,Michigan,0.642,0.358,90443.0
+231,Eau Claire County,Wisconsin,0.703,0.297,91478.0
+232,Ector County,Texas,0.6759999999999999,0.324,123712.0
+233,Effingham County,Georgia,0.696,0.304,56109.0
+234,El Dorado County,California,0.588,0.41200000000000003,160464.0
+235,El Paso County,Colorado,0.6809999999999999,0.319,604366.0
+236,El Paso County,Texas,0.625,0.375,682816.0
+237,Elkhart County,Indiana,0.653,0.34700000000000003,159888.0
+238,Ellis County,Texas,0.662,0.33799999999999997,178284.0
+239,Elmore County,Alabama,0.617,0.38299999999999995,74042.0
+240,Erie County,New York,0.627,0.373,784109.0
+241,Erie County,Ohio,0.621,0.379,62030.0
+242,Erie County,Pennsylvania,0.602,0.39799999999999996,220685.0
+243,Escambia County,Florida,0.625,0.375,270879.0
+244,Essex County,Massachusetts,0.677,0.32299999999999995,672755.0
+245,Essex County,New Jersey,0.67,0.33,701868.0
+246,Etowah County,Alabama,0.557,0.44299999999999995,83301.0
+247,Fairbanks North Star Borough,Alaska,0.688,0.312,75427.0
+248,Fairfax County,Virginia,0.706,0.294,937914.0
+249,Fairfield County,Ohio,0.66,0.34,133370.0
+250,Faulkner County,Arkansas,0.66,0.34,105211.0
+251,Fauquier County,Virginia,0.645,0.355,59772.0
+252,Fayette County,Georgia,0.607,0.39299999999999996,102829.0
+253,Fayette County,Kentucky,0.6990000000000001,0.301,269466.0
+254,Fayette County,Pennsylvania,0.564,0.436,103769.0
+255,Flagler County,Florida,0.526,0.474,119469.0
+256,Flathead County,Montana,0.606,0.39399999999999996,93405.0
+257,Florence County,South Carolina,0.606,0.39399999999999996,109515.0
+258,Floyd County,Georgia,0.583,0.41700000000000004,81490.0
+259,Floyd County,Indiana,0.642,0.358,65358.0
+260,Fond du Lac County,Wisconsin,0.66,0.34,85440.0
+261,Forrest County,Mississippi,0.635,0.365,62779.0
+262,Forsyth County,Georgia,0.685,0.315,220202.0
+263,Forsyth County,North Carolina,0.6409999999999999,0.359,318967.0
+264,Fort Bend County,Texas,0.674,0.326,740445.0
+265,Franklin County,Massachusetts,0.626,0.374,61313.0
+266,Franklin County,Missouri,0.632,0.368,86945.0
+267,Franklin County,North Carolina,0.61,0.39,64836.0
+268,Franklin County,Ohio,0.691,0.309,1081193.0
+269,Franklin County,Pennsylvania,0.638,0.36200000000000004,129408.0
+270,Franklin County,Washington,0.635,0.365,75477.0
+271,Frederick County,Maryland,0.7140000000000001,0.28600000000000003,238001.0
+272,Frederick County,Virginia,0.628,0.37200000000000005,78618.0
+273,Fresno County,California,0.628,0.37200000000000005,781105.0
+274,Fulton County,Georgia,0.706,0.294,894892.0
+275,Gallatin County,Montana,0.741,0.259,106735.0
+276,Galveston County,Texas,0.647,0.353,291803.0
+277,Garland County,Arkansas,0.539,0.461,82534.0
+278,Gaston County,North Carolina,0.645,0.355,193784.0
+279,Geauga County,Ohio,0.622,0.37799999999999995,78388.0
+280,Genesee County,Michigan,0.591,0.409,326150.0
+281,Georgetown County,South Carolina,0.519,0.48100000000000004,57068.0
+282,Gloucester County,New Jersey,0.667,0.33299999999999996,255081.0
+283,Glynn County,Georgia,0.622,0.37799999999999995,73075.0
+284,Grafton County,New Hampshire,0.63,0.37,80876.0
+285,Grand Forks County,North Dakota,0.716,0.284,60699.0
+286,Grand Traverse County,Michigan,0.645,0.355,79996.0
+287,Grant County,Indiana,0.557,0.44299999999999995,53415.0
+288,Grant County,Washington,0.621,0.379,80034.0
+289,Grays Harbor County,Washington,0.49200000000000005,0.508,65943.0
+290,Grayson County,Texas,0.639,0.361,119870.0
+291,Greater Bridgeport Planning Region,Connecticut,0.655,0.345,271537.0
+292,Greene County,Missouri,0.65,0.35,252622.0
+293,Greene County,Ohio,0.642,0.358,142590.0
+294,Greene County,Tennessee,0.5579999999999999,0.442,61795.0
+295,Greenville County,South Carolina,0.664,0.336,457695.0
+296,Greenwood County,South Carolina,0.546,0.45399999999999996,57260.0
+297,Gregg County,Texas,0.616,0.384,97321.0
+298,Guadalupe County,Texas,0.638,0.36200000000000004,154879.0
+299,Guaynabo Municipio,Puerto Rico,0.56,0.44,79149.0
+300,Guilford County,North Carolina,0.6409999999999999,0.359,453595.0
+301,Gwinnett County,Georgia,0.6940000000000001,0.306,785087.0
+302,Hall County,Georgia,0.632,0.368,178081.0
+303,Hamblen County,Tennessee,0.604,0.396,53822.0
+304,Hamilton County,Indiana,0.7140000000000001,0.28600000000000003,297717.0
+305,Hamilton County,Ohio,0.6609999999999999,0.33899999999999997,670498.0
+306,Hamilton County,Tennessee,0.643,0.35700000000000004,316213.0
+307,Hampden County,Massachusetts,0.602,0.39799999999999996,380664.0
+308,Hampshire County,Massachusetts,0.621,0.379,146640.0
+309,Hampton city,Virginia,0.648,0.35200000000000004,111135.0
+310,Hancock County,Indiana,0.6859999999999999,0.314,70904.0
+311,Hancock County,Ohio,0.6509999999999999,0.349,60706.0
+312,Hanover County,Virginia,0.66,0.34,93938.0
+313,Hardin County,Kentucky,0.624,0.376,88323.0
+314,Harford County,Maryland,0.675,0.325,214287.0
+315,Harnett County,North Carolina,0.614,0.386,113778.0
+316,Harris County,Texas,0.675,0.325,3889057.0
+317,Harrison County,Mississippi,0.615,0.385,170693.0
+318,Harrison County,Texas,0.568,0.43200000000000005,56401.0
+319,Harrison County,West Virginia,0.56,0.44,52956.0
+320,Hawaii County,Hawaii,0.555,0.445,171819.0
+321,Hays County,Texas,0.693,0.307,236256.0
+322,Henderson County,North Carolina,0.579,0.42100000000000004,101556.0
+323,Henderson County,Texas,0.506,0.494,70615.0
+324,Hendricks County,Indiana,0.669,0.331,149966.0
+325,Hennepin County,Minnesota,0.708,0.292,1036371.0
+326,Henrico County,Virginia,0.674,0.326,276120.0
+327,Henry County,Georgia,0.715,0.285,203856.0
+328,Hernando County,Florida,0.519,0.48100000000000004,182795.0
+329,Hidalgo County,Texas,0.615,0.385,672934.0
+330,Highlands County,Florida,0.473,0.527,95882.0
+331,Hillsborough County,Florida,0.6709999999999999,0.32899999999999996,1286171.0
+332,Hillsborough County,New Hampshire,0.6920000000000001,0.308,358825.0
+333,Hinds County,Mississippi,0.615,0.385,168908.0
+334,Honolulu County,Hawaii,0.6559999999999999,0.344,818168.0
+335,Hood County,Texas,0.5720000000000001,0.428,57774.0
+336,Horry County,South Carolina,0.537,0.46299999999999997,356194.0
+337,Houston County,Alabama,0.588,0.41200000000000003,87810.0
+338,Houston County,Georgia,0.614,0.386,135782.0
+339,Howard County,Indiana,0.602,0.39799999999999996,67140.0
+340,Howard County,Maryland,0.7040000000000001,0.29600000000000004,271105.0
+341,Hudson County,New Jersey,0.7020000000000001,0.298,611940.0
+342,Humboldt County,California,0.565,0.435,111140.0
+343,Hunt County,Texas,0.622,0.37799999999999995,92871.0
+344,Hunterdon County,New Jersey,0.6659999999999999,0.33399999999999996,110082.0
+345,Iberia Parish,Louisiana,0.594,0.406,51873.0
+346,Imperial County,California,0.54,0.46,138107.0
+347,Indian River County,Florida,0.49,0.51,149566.0
+348,Indiana County,Pennsylvania,0.583,0.41700000000000004,70331.0
+349,Ingham County,Michigan,0.6559999999999999,0.344,241750.0
+350,Ionia County,Michigan,0.603,0.397,54739.0
+351,Iredell County,North Carolina,0.6409999999999999,0.359,167302.0
+352,Iron County,Utah,0.62,0.38,50808.0
+353,Isabella County,Michigan,0.615,0.385,55439.0
+354,Island County,Washington,0.5479999999999999,0.452,73173.0
+355,Jackson County,Georgia,0.672,0.32799999999999996,73634.0
+356,Jackson County,Michigan,0.5770000000000001,0.423,132016.0
+357,Jackson County,Mississippi,0.615,0.385,118463.0
+358,Jackson County,Missouri,0.6679999999999999,0.332,580539.0
+359,Jackson County,Oregon,0.593,0.40700000000000003,183438.0
+360,James City County,Virginia,0.561,0.439,69337.0
+361,Jasper County,Missouri,0.639,0.361,99708.0
+362,Jefferson County,Alabama,0.631,0.369,531185.0
+363,Jefferson County,Arkansas,0.529,0.47100000000000003,51850.0
+364,Jefferson County,Colorado,0.6940000000000001,0.306,488414.0
+365,Jefferson County,Kentucky,0.655,0.345,637021.0
+366,Jefferson County,Missouri,0.652,0.348,187914.0
+367,Jefferson County,New York,0.654,0.34600000000000003,88090.0
+368,Jefferson County,Texas,0.569,0.431,199502.0
+369,Jefferson County,Wisconsin,0.695,0.305,72309.0
+370,Jefferson Parish,Louisiana,0.644,0.35600000000000004,342422.0
+371,Johnson County,Indiana,0.682,0.318,136751.0
+372,Johnson County,Iowa,0.695,0.305,133033.0
+373,Johnson County,Kansas,0.715,0.285,505162.0
+374,Johnson County,Texas,0.642,0.358,164610.0
+375,Johnston County,North Carolina,0.691,0.309,197083.0
+376,Jones County,Mississippi,0.5539999999999999,0.446,52226.0
+377,Josephine County,Oregon,0.527,0.473,73724.0
+378,Kalamazoo County,Michigan,0.639,0.361,217085.0
+379,Kanawha County,West Virginia,0.579,0.42100000000000004,144712.0
+380,Kane County,Illinois,0.6970000000000001,0.303,417173.0
+381,Kankakee County,Illinois,0.643,0.35700000000000004,85490.0
+382,Kauai County,Hawaii,0.701,0.299,60615.0
+383,Kaufman County,Texas,0.677,0.32299999999999995,145038.0
+384,Kendall County,Illinois,0.758,0.242,111078.0
+385,Kennebec County,Maine,0.601,0.39899999999999997,108429.0
+386,Kenosha County,Wisconsin,0.672,0.32799999999999996,137832.0
+387,Kent County,Delaware,0.637,0.363,153502.0
+388,Kent County,Michigan,0.693,0.307,538422.0
+389,Kent County,Rhode Island,0.679,0.321,147345.0
+390,Kenton County,Kentucky,0.675,0.325,140964.0
+391,Kern County,California,0.591,0.409,699878.0
+392,Kershaw County,South Carolina,0.59,0.41,57197.0
+393,King County,Washington,0.706,0.294,1949567.0
+394,Kings County,California,0.5920000000000001,0.408,119526.0
+395,Kings County,New York,0.65,0.35,2115296.0
+396,Kitsap County,Washington,0.633,0.36700000000000005,233707.0
+397,Klamath County,Oregon,0.511,0.489,57162.0
+398,Knox County,Tennessee,0.664,0.336,415381.0
+399,Kootenai County,Idaho,0.615,0.385,152171.0
+400,Kosciusko County,Indiana,0.642,0.358,63682.0
+401,La Crosse County,Wisconsin,0.679,0.321,100778.0
+402,LaPorte County,Indiana,0.5529999999999999,0.447,91057.0
+403,LaSalle County,Illinois,0.605,0.395,88839.0
+404,Lackawanna County,Pennsylvania,0.588,0.41200000000000003,178419.0
+405,Lafayette Parish,Louisiana,0.65,0.35,200635.0
+406,Lafourche Parish,Louisiana,0.57,0.43,76299.0
+407,Lake County,California,0.522,0.478,54345.0
+408,Lake County,Florida,0.5429999999999999,0.457,371504.0
+409,Lake County,Illinois,0.679,0.321,577138.0
+410,Lake County,Indiana,0.613,0.387,404362.0
+411,Lake County,Ohio,0.6629999999999999,0.337,194505.0
+412,Lamar County,Mississippi,0.65,0.35,52262.0
+413,Lancaster County,Nebraska,0.695,0.305,269132.0
+414,Lancaster County,Pennsylvania,0.66,0.34,451305.0
+415,Lancaster County,South Carolina,0.5870000000000001,0.413,90495.0
+416,Lane County,Oregon,0.598,0.402,326845.0
+417,Lapeer County,Michigan,0.598,0.402,74413.0
+418,Laramie County,Wyoming,0.6759999999999999,0.324,82582.0
+419,Larimer County,Colorado,0.6679999999999999,0.332,317559.0
+420,Lauderdale County,Alabama,0.606,0.39399999999999996,81012.0
+421,Lauderdale County,Mississippi,0.623,0.377,55831.0
+422,Laurens County,South Carolina,0.586,0.414,57515.0
+423,Lawrence County,Pennsylvania,0.581,0.419,70040.0
+424,Lea County,New Mexico,0.593,0.40700000000000003,57217.0
+425,Leavenworth County,Kansas,0.635,0.365,67032.0
+426,Lebanon County,Pennsylvania,0.639,0.361,116313.0
+427,Lee County,Alabama,0.64,0.36,154822.0
+428,Lee County,Florida,0.56,0.44,731401.0
+429,Lee County,Mississippi,0.604,0.396,65123.0
+430,Lee County,North Carolina,0.64,0.36,54977.0
+431,Lehigh County,Pennsylvania,0.6559999999999999,0.344,312025.0
+432,Lenawee County,Michigan,0.601,0.39899999999999997,81217.0
+433,Leon County,Florida,0.649,0.35100000000000003,252300.0
+434,Lewis County,Washington,0.555,0.445,69926.0
+435,Lewis and Clark County,Montana,0.6509999999999999,0.349,62354.0
+436,Lexington County,South Carolina,0.652,0.348,251804.0
+437,Liberty County,Georgia,0.6809999999999999,0.319,51026.0
+438,Liberty County,Texas,0.562,0.43799999999999994,84713.0
+439,Licking County,Ohio,0.6459999999999999,0.354,149428.0
+440,Limestone County,Alabama,0.609,0.391,96191.0
+441,Lincoln County,Missouri,0.667,0.33299999999999996,51888.0
+442,Lincoln County,North Carolina,0.622,0.37799999999999995,80144.0
+443,Lincoln County,South Dakota,0.752,0.248,58723.0
+444,Linn County,Iowa,0.672,0.32799999999999996,186719.0
+445,Linn County,Oregon,0.598,0.402,107611.0
+446,Livingston County,Michigan,0.649,0.35100000000000003,163495.0
+447,Livingston Parish,Louisiana,0.675,0.325,119416.0
+448,Lonoke County,Arkansas,0.635,0.365,61482.0
+449,Lorain County,Ohio,0.618,0.382,261436.0
+450,Los Angeles County,California,0.6559999999999999,0.344,8062391.0
+451,Loudoun County,Virginia,0.743,0.257,345291.0
+452,Lower Connecticut River Valley Planning Region,Connecticut,0.6409999999999999,0.359,153390.0
+453,Lowndes County,Georgia,0.625,0.375,95526.0
+454,Lubbock County,Texas,0.674,0.326,260305.0
+455,Lucas County,Ohio,0.63,0.37,342006.0
+456,Luzerne County,Pennsylvania,0.609,0.391,273778.0
+457,Lycoming County,Pennsylvania,0.58,0.42,94115.0
+458,Lynchburg city,Virginia,0.61,0.39,67727.0
+459,Macomb County,Michigan,0.638,0.36200000000000004,728214.0
+460,Macon County,Illinois,0.5760000000000001,0.424,80375.0
+461,Madera County,California,0.5760000000000001,0.424,127287.0
+462,Madison County,Alabama,0.6679999999999999,0.332,344299.0
+463,Madison County,Illinois,0.64,0.36,215694.0
+464,Madison County,Indiana,0.604,0.396,109952.0
+465,Madison County,Kentucky,0.629,0.371,81685.0
+466,Madison County,Mississippi,0.636,0.364,91409.0
+467,Madison County,New York,0.584,0.41600000000000004,57005.0
+468,Madison County,Tennessee,0.624,0.376,81540.0
+469,Mahoning County,Ohio,0.5670000000000001,0.433,185900.0
+470,Manatee County,Florida,0.57,0.43,389943.0
+471,Manitowoc County,Wisconsin,0.627,0.373,67349.0
+472,Marathon County,Wisconsin,0.66,0.34,112806.0
+473,Maricopa County,Arizona,0.659,0.341,3782615.0
+474,Marin County,California,0.617,0.38299999999999995,215667.0
+475,Marion County,Florida,0.513,0.48700000000000004,359864.0
+476,Marion County,Indiana,0.696,0.304,767318.0
+477,Marion County,Ohio,0.5379999999999999,0.462,52828.0
+478,Marion County,Oregon,0.63,0.37,282793.0
+479,Marquette County,Michigan,0.604,0.396,58053.0
+480,Marshall County,Alabama,0.59,0.41,77656.0
+481,Martin County,Florida,0.503,0.49700000000000005,141664.0
+482,Mason County,Washington,0.498,0.502,57589.0
+483,Matanuska-Susitna Borough,Alaska,0.603,0.397,92107.0
+484,Maui County,Hawaii,0.634,0.366,133809.0
+485,Maury County,Tennessee,0.649,0.35100000000000003,91119.0
+486,Mayagüez Municipio,Puerto Rico,0.37,0.63,60786.0
+487,McCracken County,Kentucky,0.603,0.397,55005.0
+488,McHenry County,Illinois,0.688,0.312,255748.0
+489,McKinley County,New Mexico,0.5,0.5,54119.0
+490,McLean County,Illinois,0.6609999999999999,0.33899999999999997,141214.0
+491,McLennan County,Texas,0.628,0.37200000000000005,213389.0
+492,Mecklenburg County,North Carolina,0.735,0.265,967797.0
+493,Medina County,Ohio,0.6579999999999999,0.342,151124.0
+494,Mendocino County,California,0.556,0.444,73192.0
+495,Merced County,California,0.608,0.392,225213.0
+496,Mercer County,New Jersey,0.682,0.318,316009.0
+497,Mercer County,Pennsylvania,0.542,0.45799999999999996,90750.0
+498,Merrimack County,New Hampshire,0.669,0.331,133780.0
+499,Mesa County,Colorado,0.614,0.386,135092.0
+500,Miami County,Ohio,0.642,0.358,90217.0
+501,Miami-Dade County,Florida,0.657,0.34299999999999997,2345796.0
+502,Middlesex County,Massachusetts,0.705,0.295,1388616.0
+503,Middlesex County,New Jersey,0.685,0.315,726779.0
+504,Midland County,Michigan,0.593,0.40700000000000003,69080.0
+505,Midland County,Texas,0.701,0.299,136038.0
+506,Milwaukee County,Wisconsin,0.6609999999999999,0.33899999999999997,736758.0
+507,Minnehaha County,South Dakota,0.731,0.26899999999999996,162985.0
+508,Missoula County,Montana,0.688,0.312,104819.0
+509,Mobile County,Alabama,0.599,0.401,328922.0
+510,Mohave County,Arizona,0.475,0.525,195408.0
+511,Monmouth County,New Jersey,0.6509999999999999,0.349,532935.0
+512,Monongalia County,West Virginia,0.665,0.335,93025.0
+513,Monroe County,Florida,0.62,0.38,69695.0
+514,Monroe County,Indiana,0.625,0.375,122160.0
+515,Monroe County,Michigan,0.603,0.397,128089.0
+516,Monroe County,New York,0.632,0.368,621535.0
+517,Monroe County,Pennsylvania,0.61,0.39,140670.0
+518,Montcalm County,Michigan,0.5670000000000001,0.433,56516.0
+519,Monterey County,California,0.612,0.38799999999999996,339848.0
+520,Montgomery County,Alabama,0.5920000000000001,0.408,178286.0
+521,Montgomery County,Maryland,0.701,0.299,868371.0
+522,Montgomery County,Ohio,0.6409999999999999,0.359,435415.0
+523,Montgomery County,Pennsylvania,0.6809999999999999,0.319,720288.0
+524,Montgomery County,Tennessee,0.701,0.299,188461.0
+525,Montgomery County,Texas,0.66,0.34,582145.0
+526,Montgomery County,Virginia,0.562,0.43799999999999994,86464.0
+527,Moore County,North Carolina,0.5820000000000001,0.418,87384.0
+528,Morgan County,Alabama,0.568,0.43200000000000005,100800.0
+529,Morgan County,Indiana,0.591,0.409,60313.0
+530,Morris County,New Jersey,0.688,0.312,429007.0
+531,Multnomah County,Oregon,0.696,0.304,678651.0
+532,Muscogee County,Georgia,0.605,0.395,157277.0
+533,Muskegon County,Michigan,0.5870000000000001,0.413,143090.0
+534,Muskingum County,Ohio,0.594,0.406,69188.0
+535,Muskogee County,Oklahoma,0.523,0.47700000000000004,52285.0
+536,Nacogdoches County,Texas,0.6409999999999999,0.359,52110.0
+537,Napa County,California,0.63,0.37,111554.0
+538,Nash County,North Carolina,0.628,0.37200000000000005,79588.0
+539,Nassau County,Florida,0.597,0.40299999999999997,87512.0
+540,Nassau County,New York,0.642,0.358,1133111.0
+541,Natrona County,Wyoming,0.6579999999999999,0.342,65042.0
+542,Naugatuck Valley Planning Region,Connecticut,0.652,0.348,381742.0
+543,Navajo County,Arizona,0.484,0.516,85777.0
+544,Nevada County,California,0.5760000000000001,0.424,86715.0
+545,New Castle County,Delaware,0.66,0.34,480572.0
+546,New Hanover County,North Carolina,0.669,0.331,206267.0
+547,New York County,New York,0.677,0.32299999999999995,1464139.0
+548,Newport County,Rhode Island,0.6509999999999999,0.349,73859.0
+549,Newport News city,Virginia,0.6659999999999999,0.33399999999999996,145983.0
+550,Newton County,Georgia,0.611,0.389,97467.0
+551,Niagara County,New York,0.619,0.381,173951.0
+552,Norfolk County,Massachusetts,0.7020000000000001,0.298,612296.0
+553,Norfolk city,Virginia,0.6920000000000001,0.308,189464.0
+554,Northampton County,Pennsylvania,0.653,0.34700000000000003,271591.0
+555,Northeastern Connecticut Planning Region,Connecticut,0.6709999999999999,0.32899999999999996,82568.0
+556,Northumberland County,Pennsylvania,0.588,0.41200000000000003,75319.0
+557,Northwest Hills Planning Region,Connecticut,0.637,0.363,97796.0
+558,Nueces County,Texas,0.616,0.384,281656.0
+559,Oakland County,Michigan,0.6609999999999999,0.33899999999999997,1070299.0
+560,Ocean County,New Jersey,0.596,0.40399999999999997,519030.0
+561,Oconee County,South Carolina,0.574,0.426,69251.0
+562,Okaloosa County,Florida,0.657,0.34299999999999997,176127.0
+563,Oklahoma County,Oklahoma,0.6509999999999999,0.349,637268.0
+564,Oldham County,Kentucky,0.632,0.368,55797.0
+565,Olmsted County,Minnesota,0.713,0.287,131906.0
+566,Oneida County,New York,0.588,0.41200000000000003,186829.0
+567,Onondaga County,New York,0.617,0.38299999999999995,385780.0
+568,Onslow County,North Carolina,0.6890000000000001,0.311,164950.0
+569,Ontario County,New York,0.619,0.381,94805.0
+570,Orange County,California,0.655,0.345,2614670.0
+571,Orange County,Florida,0.6890000000000001,0.311,1251214.0
+572,Orange County,New York,0.63,0.37,319470.0
+573,Orange County,North Carolina,0.637,0.363,128225.0
+574,Orange County,Texas,0.615,0.385,66758.0
+575,Orangeburg County,South Carolina,0.579,0.42100000000000004,67385.0
+576,Orleans Parish,Louisiana,0.616,0.384,299280.0
+577,Osceola County,Florida,0.667,0.33299999999999996,373480.0
+578,Oswego County,New York,0.603,0.397,97221.0
+579,Otero County,New Mexico,0.544,0.456,56367.0
+580,Ottawa County,Michigan,0.66,0.34,246711.0
+581,Ouachita Parish,Louisiana,0.605,0.395,123946.0
+582,Outagamie County,Wisconsin,0.672,0.32799999999999996,156928.0
+583,Ozaukee County,Wisconsin,0.645,0.355,77284.0
+584,Palm Beach County,Florida,0.61,0.39,1321754.0
+585,Parker County,Texas,0.653,0.34700000000000003,141974.0
+586,Pasco County,Florida,0.597,0.40299999999999997,543257.0
+587,Passaic County,New Jersey,0.659,0.341,417133.0
+588,Paulding County,Georgia,0.706,0.294,148409.0
+589,Payne County,Oklahoma,0.644,0.35600000000000004,70391.0
+590,Pender County,North Carolina,0.613,0.387,56782.0
+591,Pennington County,South Dakota,0.677,0.32299999999999995,93640.0
+592,Penobscot County,Maine,0.5920000000000001,0.408,133511.0
+593,Peoria County,Illinois,0.635,0.365,141557.0
+594,Philadelphia County,Pennsylvania,0.649,0.35100000000000003,1284295.0
+595,Pickens County,South Carolina,0.57,0.43,117102.0
+596,Pierce County,Washington,0.6629999999999999,0.337,754357.0
+597,Pima County,Arizona,0.581,0.419,901343.0
+598,Pinal County,Arizona,0.5479999999999999,0.452,418757.0
+599,Pinellas County,Florida,0.598,0.402,840798.0
+600,Pitt County,North Carolina,0.63,0.37,147508.0
+601,Placer County,California,0.613,0.387,353049.0
+602,Platte County,Missouri,0.693,0.307,90999.0
+603,Plymouth County,Massachusetts,0.67,0.33,447420.0
+604,Polk County,Florida,0.605,0.395,688067.0
+605,Polk County,Iowa,0.7240000000000001,0.276,407539.0
+606,Polk County,Oregon,0.584,0.41600000000000004,73722.0
+607,Ponce Municipio,Puerto Rico,0.44,0.56,112589.0
+608,Portage County,Ohio,0.6659999999999999,0.33399999999999996,138655.0
+609,Portage County,Wisconsin,0.645,0.355,60657.0
+610,Porter County,Indiana,0.634,0.366,143784.0
+611,Portsmouth city,Virginia,0.623,0.377,76638.0
+612,Pottawatomie County,Oklahoma,0.5660000000000001,0.434,59567.0
+613,Pottawattamie County,Iowa,0.619,0.381,74384.0
+614,Potter County,Texas,0.6,0.4,88316.0
+615,Prince George's County,Maryland,0.6940000000000001,0.306,780290.0
+616,Prince William County,Virginia,0.71,0.29,384962.0
+617,Providence County,Rhode Island,0.659,0.341,558688.0
+618,Pueblo County,Colorado,0.552,0.44799999999999995,138800.0
+619,Pulaski County,Arkansas,0.628,0.37200000000000005,320815.0
+620,Pulaski County,Kentucky,0.525,0.475,54558.0
+621,Putnam County,Florida,0.508,0.49200000000000005,62413.0
+622,Putnam County,New York,0.636,0.364,82309.0
+623,Putnam County,Tennessee,0.596,0.40399999999999997,69459.0
+624,Queens County,New York,0.628,0.37200000000000005,1926525.0
+625,Racine County,Wisconsin,0.637,0.363,160178.0
+626,Raleigh County,West Virginia,0.49200000000000005,0.508,59666.0
+627,Ramsey County,Minnesota,0.674,0.326,433951.0
+628,Randall County,Texas,0.6940000000000001,0.306,119860.0
+629,Randolph County,North Carolina,0.606,0.39399999999999996,120178.0
+630,Rankin County,Mississippi,0.662,0.33799999999999997,130467.0
+631,Rapides Parish,Louisiana,0.599,0.401,97493.0
+632,Rensselaer County,New York,0.636,0.364,133999.0
+633,Rice County,Minnesota,0.624,0.376,56232.0
+634,Richland County,Ohio,0.568,0.43200000000000005,100916.0
+635,Richland County,South Carolina,0.637,0.363,351970.0
+636,Richmond County,Georgia,0.618,0.382,165174.0
+637,Richmond County,New York,0.612,0.38799999999999996,406806.0
+638,Richmond city,Virginia,0.7040000000000001,0.29600000000000004,196903.0
+639,Riley County,Kansas,0.727,0.273,63093.0
+640,Riverside County,California,0.616,0.384,2016504.0
+641,Roanoke County,Virginia,0.617,0.38299999999999995,81696.0
+642,Roanoke city,Virginia,0.596,0.40399999999999997,81108.0
+643,Robertson County,Tennessee,0.677,0.32299999999999995,61641.0
+644,Robeson County,North Carolina,0.508,0.49200000000000005,91829.0
+645,Rock County,Wisconsin,0.631,0.369,134583.0
+646,Rock Island County,Illinois,0.604,0.396,114743.0
+647,Rockdale County,Georgia,0.672,0.32799999999999996,77789.0
+648,Rockingham County,New Hampshire,0.682,0.318,272738.0
+649,Rockingham County,North Carolina,0.551,0.449,76806.0
+650,Rockingham County,Virginia,0.648,0.35200000000000004,70585.0
+651,Rockland County,New York,0.632,0.368,254362.0
+652,Rockwall County,Texas,0.677,0.32299999999999995,106937.0
+653,Rogers County,Oklahoma,0.618,0.382,81511.0
+654,Ross County,Ohio,0.557,0.44299999999999995,62202.0
+655,Rowan County,North Carolina,0.594,0.406,123884.0
+656,Rutherford County,North Carolina,0.568,0.43200000000000005,54186.0
+657,Rutherford County,Tennessee,0.731,0.26899999999999996,294430.0
+658,Sacramento County,California,0.644,0.35600000000000004,1288575.0
+659,Saginaw County,Michigan,0.595,0.405,153003.0
+660,Salem County,New Jersey,0.623,0.377,53142.0
+661,Saline County,Arkansas,0.598,0.402,105362.0
+662,Salt Lake County,Utah,0.7240000000000001,0.276,961523.0
+663,San Benito County,California,0.682,0.318,54374.0
+664,San Bernardino County,California,0.624,0.376,1736945.0
+665,San Diego County,California,0.664,0.336,2707550.0
+666,San Francisco County,California,0.7,0.3,728981.0
+667,San Joaquin County,California,0.618,0.382,637817.0
+668,San Juan County,New Mexico,0.542,0.45799999999999996,96519.0
+669,San Juan Municipio,Puerto Rico,0.523,0.47700000000000004,291686.0
+670,San Luis Obispo County,California,0.573,0.42700000000000005,240396.0
+671,San Mateo County,California,0.68,0.32,619646.0
+672,San Patricio County,Texas,0.622,0.37799999999999995,55592.0
+673,Sandoval County,New Mexico,0.615,0.385,130412.0
+674,Sangamon County,Illinois,0.628,0.37200000000000005,157417.0
+675,Santa Barbara County,California,0.62,0.38,358470.0
+676,Santa Clara County,California,0.677,0.32299999999999995,1602626.0
+677,Santa Cruz County,California,0.609,0.391,221927.0
+678,Santa Fe County,New Mexico,0.579,0.42100000000000004,138051.0
+679,Santa Rosa County,Florida,0.6,0.4,169329.0
+680,Sarasota County,Florida,0.493,0.507,418336.0
+681,Saratoga County,New York,0.6509999999999999,0.349,201570.0
+682,Sarpy County,Nebraska,0.732,0.268,159416.0
+683,Sauk County,Wisconsin,0.648,0.35200000000000004,54086.0
+684,Schenectady County,New York,0.648,0.35200000000000004,132058.0
+685,Schuylkill County,Pennsylvania,0.5870000000000001,0.413,120046.0
+686,Scioto County,Ohio,0.523,0.47700000000000004,59044.0
+687,Scott County,Iowa,0.654,0.34600000000000003,140937.0
+688,Scott County,Minnesota,0.757,0.243,123535.0
+689,Sebastian County,Arkansas,0.619,0.381,103405.0
+690,Sedgwick County,Kansas,0.6629999999999999,0.337,421192.0
+691,Seminole County,Florida,0.6609999999999999,0.33899999999999997,409659.0
+692,Sevier County,Tennessee,0.633,0.36700000000000005,83664.0
+693,Shasta County,California,0.5720000000000001,0.428,146867.0
+694,Shawnee County,Kansas,0.653,0.34700000000000003,142940.0
+695,Sheboygan County,Wisconsin,0.64,0.36,96765.0
+696,Shelby County,Alabama,0.6729999999999999,0.327,189764.0
+697,Shelby County,Tennessee,0.644,0.35600000000000004,709731.0
+698,Sherburne County,Minnesota,0.736,0.264,80539.0
+699,Shiawassee County,Michigan,0.611,0.389,56378.0
+700,Skagit County,Washington,0.597,0.40299999999999997,108685.0
+701,Smith County,Texas,0.645,0.355,197653.0
+702,Snohomish County,Washington,0.674,0.326,700410.0
+703,Solano County,California,0.611,0.389,369504.0
+704,Somerset County,New Jersey,0.71,0.29,293719.0
+705,Somerset County,Pennsylvania,0.534,0.466,60593.0
+706,Sonoma County,California,0.634,0.366,407679.0
+707,South Central Connecticut Planning Region,Connecticut,0.649,0.35100000000000003,480721.0
+708,Southeastern Connecticut Planning Region,Connecticut,0.649,0.35100000000000003,236727.0
+709,Spalding County,Georgia,0.544,0.456,56312.0
+710,Spartanburg County,South Carolina,0.628,0.37200000000000005,293818.0
+711,Spokane County,Washington,0.624,0.376,452659.0
+712,Spotsylvania County,Virginia,0.684,0.316,120111.0
+713,St. Charles County,Missouri,0.6890000000000001,0.311,343216.0
+714,St. Clair County,Alabama,0.5770000000000001,0.423,78086.0
+715,St. Clair County,Illinois,0.652,0.348,201573.0
+716,St. Clair County,Michigan,0.618,0.382,133212.0
+717,St. Croix County,Wisconsin,0.688,0.312,78963.0
+718,St. Francois County,Missouri,0.523,0.47700000000000004,55411.0
+719,St. Johns County,Florida,0.612,0.38799999999999996,274587.0
+720,St. Joseph County,Indiana,0.638,0.36200000000000004,218623.0
+721,St. Landry Parish,Louisiana,0.5529999999999999,0.447,62074.0
+722,St. Lawrence County,New York,0.541,0.45899999999999996,88382.0
+723,St. Louis County,Minnesota,0.616,0.384,168798.0
+724,St. Louis County,Missouri,0.653,0.34700000000000003,805245.0
+725,St. Louis city,Missouri,0.672,0.32799999999999996,234852.0
+726,St. Lucie County,Florida,0.57,0.43,324553.0
+727,St. Mary's County,Maryland,0.68,0.32,92002.0
+728,St. Tammany Parish,Louisiana,0.629,0.371,220609.0
+729,Stafford County,Virginia,0.711,0.289,130354.0
+730,Stanislaus County,California,0.621,0.379,430026.0
+731,Stanly County,North Carolina,0.59,0.41,54936.0
+732,Stark County,Ohio,0.614,0.386,303600.0
+733,Starr County,Texas,0.5539999999999999,0.446,47984.0
+734,Stearns County,Minnesota,0.708,0.292,129713.0
+735,Steuben County,New York,0.578,0.42200000000000004,75242.0
+736,Story County,Iowa,0.6729999999999999,0.327,87863.0
+737,Strafford County,New Hampshire,0.6829999999999999,0.317,114629.0
+738,Suffolk County,Massachusetts,0.695,0.305,683616.0
+739,Suffolk County,New York,0.6509999999999999,0.349,1259406.0
+740,Suffolk city,Virginia,0.655,0.345,81825.0
+741,Sullivan County,New York,0.594,0.406,65131.0
+742,Sullivan County,Tennessee,0.565,0.435,136663.0
+743,Summit County,Ohio,0.639,0.361,442814.0
+744,Sumner County,Tennessee,0.675,0.325,169389.0
+745,Sumter County,Florida,0.256,0.7440000000000001,145183.0
+746,Sumter County,South Carolina,0.591,0.409,83218.0
+747,Surry County,North Carolina,0.588,0.41200000000000003,58482.0
+748,Sussex County,Delaware,0.5479999999999999,0.452,229329.0
+749,Sussex County,New Jersey,0.682,0.318,122984.0
+750,Sutter County,California,0.607,0.39299999999999996,77458.0
+751,Talladega County,Alabama,0.519,0.48100000000000004,65924.0
+752,Tangipahoa Parish,Louisiana,0.636,0.364,109465.0
+753,Tarrant County,Texas,0.685,0.315,1748305.0
+754,Taylor County,Texas,0.643,0.35700000000000004,117415.0
+755,Tazewell County,Illinois,0.624,0.376,105753.0
+756,Tehama County,California,0.563,0.43700000000000006,51578.0
+757,Terrebonne Parish,Louisiana,0.629,0.371,81655.0
+758,Thurston County,Washington,0.615,0.385,249627.0
+759,Tippecanoe County,Indiana,0.653,0.34700000000000003,158027.0
+760,Toa Alta Municipio,Puerto Rico,0.56,0.44,57931.0
+761,Toa Baja Municipio,Puerto Rico,0.581,0.419,62334.0
+762,Tom Green County,Texas,0.659,0.341,95956.0
+763,Tompkins County,New York,0.604,0.396,93124.0
+764,Tooele County,Utah,0.7070000000000001,0.293,62964.0
+765,Travis County,Texas,0.737,0.263,1128615.0
+766,Troup County,Georgia,0.601,0.39899999999999997,55566.0
+767,Trujillo Alto Municipio,Puerto Rico,0.48100000000000004,0.519,58954.0
+768,Trumbull County,Ohio,0.5670000000000001,0.433,163832.0
+769,Tulare County,California,0.635,0.365,361833.0
+770,Tulsa County,Oklahoma,0.6609999999999999,0.33899999999999997,543367.0
+771,Tuscaloosa County,Alabama,0.631,0.369,198348.0
+772,Tuscarawas County,Ohio,0.626,0.374,73275.0
+773,Twin Falls County,Idaho,0.677,0.32299999999999995,74576.0
+774,Ulster County,New York,0.591,0.409,157758.0
+775,Umatilla County,Oregon,0.623,0.377,63844.0
+776,Union County,New Jersey,0.7,0.3,469907.0
+777,Union County,North Carolina,0.69,0.31,206877.0
+778,Union County,Ohio,0.6759999999999999,0.324,57461.0
+779,Utah County,Utah,0.72,0.28,546198.0
+780,Valencia County,New Mexico,0.555,0.445,64970.0
+781,Van Buren County,Michigan,0.627,0.373,61161.0
+782,Van Zandt County,Texas,0.5579999999999999,0.442,51906.0
+783,Vanderburgh County,Indiana,0.636,0.364,146209.0
+784,Ventura County,California,0.647,0.353,682947.0
+785,Vermilion County,Illinois,0.584,0.41600000000000004,57036.0
+786,Victoria County,Texas,0.62,0.38,72087.0
+787,Vigo County,Indiana,0.5579999999999999,0.442,86970.0
+788,Virginia Beach city,Virginia,0.6809999999999999,0.319,368717.0
+789,Volusia County,Florida,0.5529999999999999,0.447,510916.0
+790,Wagoner County,Oklahoma,0.619,0.381,72440.0
+791,Wake County,North Carolina,0.703,0.297,993134.0
+792,Walker County,Alabama,0.522,0.478,51877.0
+793,Walker County,Georgia,0.591,0.409,57203.0
+794,Walker County,Texas,0.47,0.53,72811.0
+795,Waller County,Texas,0.645,0.355,50974.0
+796,Walton County,Florida,0.604,0.396,72671.0
+797,Walton County,Georgia,0.62,0.38,87103.0
+798,Walworth County,Wisconsin,0.6759999999999999,0.324,89048.0
+799,Ward County,North Dakota,0.6779999999999999,0.322,54457.0
+800,Warren County,Kentucky,0.6629999999999999,0.337,119192.0
+801,Warren County,New Jersey,0.6729999999999999,0.327,94561.0
+802,Warren County,New York,0.5710000000000001,0.429,55821.0
+803,Warren County,Ohio,0.675,0.325,204853.0
+804,Warrick County,Indiana,0.628,0.37200000000000005,53459.0
+805,Washington County,Arkansas,0.644,0.35600000000000004,213094.0
+806,Washington County,Maryland,0.598,0.402,127663.0
+807,Washington County,Minnesota,0.6890000000000001,0.311,225686.0
+808,Washington County,Oregon,0.693,0.307,499735.0
+809,Washington County,Pennsylvania,0.603,0.397,175704.0
+810,Washington County,Rhode Island,0.605,0.395,113313.0
+811,Washington County,Tennessee,0.609,0.391,117501.0
+812,Washington County,Utah,0.5760000000000001,0.424,165155.0
+813,Washington County,Wisconsin,0.669,0.331,113717.0
+814,Washoe County,Nevada,0.674,0.326,418747.0
+815,Washtenaw County,Michigan,0.634,0.366,316407.0
+816,Waukesha County,Wisconsin,0.665,0.335,341834.0
+817,Wayne County,Indiana,0.5770000000000001,0.423,52538.0
+818,Wayne County,Michigan,0.594,0.406,1408090.0
+819,Wayne County,New York,0.615,0.385,74925.0
+820,Wayne County,North Carolina,0.613,0.387,95434.0
+821,Wayne County,Ohio,0.586,0.414,91762.0
+822,Webb County,Texas,0.655,0.345,199932.0
+823,Weber County,Utah,0.6890000000000001,0.311,214010.0
+824,Weld County,Colorado,0.705,0.295,289307.0
+825,Westchester County,New York,0.653,0.34700000000000003,823965.0
+826,Western Connecticut Planning Region,Connecticut,0.69,0.31,515821.0
+827,Westmoreland County,Pennsylvania,0.599,0.401,296648.0
+828,Whatcom County,Washington,0.649,0.35100000000000003,198808.0
+829,White County,Arkansas,0.585,0.415,64231.0
+830,Whitfield County,Georgia,0.622,0.37799999999999995,84006.0
+831,Wichita County,Texas,0.649,0.35100000000000003,104394.0
+832,Wicomico County,Maryland,0.665,0.335,86770.0
+833,Wilkes County,North Carolina,0.54,0.46,55055.0
+834,Will County,Illinois,0.675,0.325,569675.0
+835,Williamson County,Illinois,0.615,0.385,54817.0
+836,Williamson County,Tennessee,0.6729999999999999,0.327,210903.0
+837,Williamson County,Texas,0.71,0.29,577897.0
+838,Wilson County,North Carolina,0.613,0.387,64453.0
+839,Wilson County,Tennessee,0.685,0.315,135050.0
+840,Winnebago County,Illinois,0.629,0.371,226697.0
+841,Winnebago County,Wisconsin,0.644,0.35600000000000004,143566.0
+842,Wise County,Texas,0.654,0.34600000000000003,63512.0
+843,Wood County,Ohio,0.655,0.345,109580.0
+844,Wood County,West Virginia,0.5539999999999999,0.446,68232.0
+845,Wood County,Wisconsin,0.635,0.365,60476.0
+846,Woodbury County,Iowa,0.682,0.318,83368.0
+847,Worcester County,Massachusetts,0.667,0.33299999999999996,726244.0
+848,Wright County,Minnesota,0.732,0.268,119082.0
+849,Wyandotte County,Kansas,0.6990000000000001,0.301,129118.0
+850,Yakima County,Washington,0.615,0.385,194144.0
+851,Yamhill County,Oregon,0.625,0.375,91228.0
+852,Yavapai County,Arizona,0.48200000000000004,0.518,219748.0
+853,Yellowstone County,Montana,0.66,0.34,138165.0
+854,Yolo County,California,0.6,0.4,187615.0
+855,York County,Maine,0.644,0.35600000000000004,187385.0
+856,York County,Pennsylvania,0.649,0.35100000000000003,382826.0
+857,York County,South Carolina,0.696,0.304,241634.0
+858,York County,Virginia,0.638,0.36200000000000004,57375.0
+859,Yuba County,California,0.64,0.36,65313.0
+860,Yuma County,Arizona,0.517,0.483,174929.0
