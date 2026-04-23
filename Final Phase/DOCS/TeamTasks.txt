@@ -1,0 +1,27 @@
+Team Representative: Laura Dominguez
+Team GAMMA Members: 
+    Laura Dominguez
+    Emily Clauss
+Date: 03/14/2026
+Course: CSCI5420 Applied Machine Learning I
+Group Project Phase 2
+Team Task Allocation: 
+    Laura: 
+         -Finalize preprocessing Census Data for US, New Mexico, and Colorado. 
+        -Update tables and/or visualizations regarding census data. 
+        -File and saved data files or created juptyer notebooks. 
+        -Using the combined dataset, employ a number of classification models
+        -Update report with classification findings,
+        -Met with team on 3/8,3/11,3/14.
+        -Submit TeamTasks.txt
+        -Submit Report.pdf
+        -Submit PeerEvaluation.txt
+    Emily:
+        -Finalize preprocessing for US, New Mexico, and Colorado. 
+        -Update tables and/or visualizations regarding crime data. 
+        -File and saved data files or created juptyer notebooks. 
+        -Using the combined dataset, employ LinearRegression
+        -Update report with regression findings,
+        -Share any files with Laura for submission. 
+        -Met with team on 3/8,3/11,3/14. 
+        -Submit PeerEvaluation.txt
