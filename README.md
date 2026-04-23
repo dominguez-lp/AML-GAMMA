@@ -66,6 +66,9 @@ to the latest version. Also check that you executed the notebooks in the respect
 - Ensure all data files are in the same directory as the script or update the script with the correct file path.
 - Ensure that the FBI API is active and working by checking if request is accepted by FBI server.
 
+CONTRIBUTORS + ROLES: 
+Laura Dominguez:  EDA, cleaned, and preprocessed the 2024 crime dataset and implemented classification models for crime prediction using combined crime and census datasets.
+Emily Clauss: EDA, cleaned, and preprocessed the 2024 crime dataset and developed an interactive map visualization.  
 
 CONTACT: For any further assistance, please contact efclauss@nmsu.edu or laudom5@nmsu.edu 
 
